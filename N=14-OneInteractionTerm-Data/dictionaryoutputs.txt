@@ -1,0 +1,2 @@
+Estimated completion time for SGD:  46.3971038818 minutes
+Estimated completion time for TGD:  180.548327637 hours
